@@ -1,3 +1,5 @@
+![Image not found](bannerImage.jpg "James Webb Nebula Image")
+
 # Learning Github Desktop
 
 This makes things so much easier
